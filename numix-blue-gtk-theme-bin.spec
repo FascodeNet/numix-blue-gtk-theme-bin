@@ -6,11 +6,11 @@ Version: 1.0.0
 Release: 1
 Group: System Environment/Shells
 License: NONE
-Packager: kokkiemouse
+Packager: kahenteikou
 Vendor: INDETAIL
 
 Source0: https://github.com/encounter/numix-blue-gtk-theme/archive/master.tar.gz
-BuildRequires: rubygem-sass,glib2-devel,gdk-pixbuf2-devel,make
+BuildRequires: rubygem-sass,glib2-devel,gdk-pixbuf2-devel,make,sassc
 %global debug_package %{nil}
 %description
 numix blue gtk
