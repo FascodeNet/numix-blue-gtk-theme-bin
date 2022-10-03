@@ -3,7 +3,7 @@
 Summary: numix-blue-gtk-theme-bin
 Name: numix-blue-gtk-theme-bin
 Version: 1.0.0
-Release: 1
+Release: 2
 Group: System Environment/Shells
 License: NONE
 Packager: kahenteikou
